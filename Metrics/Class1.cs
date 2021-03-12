@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Metrics
+﻿namespace CasCap
 {
     public class Class1
     {

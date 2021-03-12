@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Shared
+﻿namespace CasCap
 {
     public class Class1
     {
